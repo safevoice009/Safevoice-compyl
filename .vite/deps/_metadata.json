@@ -1,0 +1,58 @@
+{
+  "hash": "17a33378",
+  "configHash": "135df27c",
+  "lockfileHash": "1b9af186",
+  "browserHash": "5f0add5b",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "5412fe67",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b136413a",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "b4200338",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "cf5dfe3e",
+      "needsInterop": false
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "a8c830cf",
+      "needsInterop": false
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "9ece9214",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "cc2905e9",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-K35MWTXD": {
+      "file": "chunk-K35MWTXD.js"
+    },
+    "chunk-ZZLEEZYP": {
+      "file": "chunk-ZZLEEZYP.js"
+    }
+  }
+}
