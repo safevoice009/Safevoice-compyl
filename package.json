@@ -1,1 +1,16 @@
-
+{
+  "name": "sentinel-secure-repo",
+  "version": "0.1.0",
+  "description": "A repository secured by Sentinel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "author": "Sentinel",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
