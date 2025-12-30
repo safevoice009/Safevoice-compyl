@@ -1,1 +1,16 @@
-
+{
+  "name": "secure-app",
+  "version": "1.0.0",
+  "description": "A secure application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.0.0",
+    "eslint-plugin-security": "^3.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
