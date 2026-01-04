@@ -1,1 +1,19 @@
-
+{
+  "name": "secure-app",
+  "version": "1.0.0",
+  "description": "A secure application",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "security"
+  ],
+  "author": "Sentinel",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
