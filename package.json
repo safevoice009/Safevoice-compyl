@@ -1,1 +1,13 @@
-
+{
+  "name": "sentinel-secure-base",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
