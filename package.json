@@ -1,1 +1,17 @@
-
+{
+  "name": "sentinel-secure-base",
+  "version": "1.0.0",
+  "description": "A project secured by Sentinel.",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
