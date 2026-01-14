@@ -1,1 +1,19 @@
-
+{
+  "name": "sentinel-secure-app",
+  "version": "1.0.0",
+  "description": "A secure application scaffolded by Sentinel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "security"
+  ],
+  "author": "Sentinel",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
