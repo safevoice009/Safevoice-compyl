@@ -1,1 +1,19 @@
-
+{
+  "name": "sentinel-secure-app",
+  "version": "1.0.0",
+  "description": "A project secured by Sentinel",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.1.1",
+    "eslint": "^9.1.1",
+    "eslint-plugin-security": "^3.0.0",
+    "globals": "^17.0.0"
+  }
+}
