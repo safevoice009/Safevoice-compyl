@@ -1,1 +1,19 @@
-
+{
+  "name": "sentinel-secure-setup",
+  "version": "1.0.0",
+  "description": "A project secured by Sentinel.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  }
+}
