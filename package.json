@@ -1,1 +1,14 @@
-
+{
+  "name": "vite-tailwind-ts-starter",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "eslint": "^9.39.2",
+    "eslint-plugin-security": "^3.0.1"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  }
+}
