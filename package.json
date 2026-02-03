@@ -1,1 +1,15 @@
-
+{
+  "name": "security-baseline-project",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@eslint/js": "9.39.2",
+    "eslint": "9.39.2",
+    "eslint-plugin-security": "3.0.1",
+    "globals": "17.3.0"
+  }
+}
